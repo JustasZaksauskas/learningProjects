@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\WHILE1\WHILE1\bin\Debug\WHILE1.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\WHILE1\WHILE1\bin\Debug\WHILE1.exe
+c:\users\acer\documents\visual studio 2015\Projects\WHILE1\WHILE1\bin\Debug\WHILE1.pdb
+c:\users\acer\documents\visual studio 2015\Projects\WHILE1\WHILE1\obj\Debug\WHILE1.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\WHILE1\WHILE1\obj\Debug\WHILE1.exe
+c:\users\acer\documents\visual studio 2015\Projects\WHILE1\WHILE1\obj\Debug\WHILE1.pdb

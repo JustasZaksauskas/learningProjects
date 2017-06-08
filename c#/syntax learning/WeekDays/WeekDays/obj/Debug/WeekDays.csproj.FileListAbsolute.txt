@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\WeekDays\WeekDays\bin\Debug\WeekDays.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\WeekDays\WeekDays\bin\Debug\WeekDays.exe
+c:\users\acer\documents\visual studio 2015\Projects\WeekDays\WeekDays\bin\Debug\WeekDays.pdb
+c:\users\acer\documents\visual studio 2015\Projects\WeekDays\WeekDays\obj\Debug\WeekDays.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\WeekDays\WeekDays\obj\Debug\WeekDays.exe
+c:\users\acer\documents\visual studio 2015\Projects\WeekDays\WeekDays\obj\Debug\WeekDays.pdb

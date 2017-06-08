@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\Loop2\Loop2\bin\Debug\Loop2.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Loop2\Loop2\bin\Debug\Loop2.exe
+c:\users\acer\documents\visual studio 2015\Projects\Loop2\Loop2\bin\Debug\Loop2.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Loop2\Loop2\obj\Debug\Loop2.exe
+c:\users\acer\documents\visual studio 2015\Projects\Loop2\Loop2\obj\Debug\Loop2.pdb

@@ -1,0 +1,8 @@
+c:\users\acer\documents\visual studio 2015\Projects\SpeedCal\SpeedCal\bin\Debug\SpeedCal.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\SpeedCal\SpeedCal\bin\Debug\SpeedCal.exe
+c:\users\acer\documents\visual studio 2015\Projects\SpeedCal\SpeedCal\bin\Debug\SpeedCal.pdb
+c:\users\acer\documents\visual studio 2015\Projects\SpeedCal\SpeedCal\obj\Debug\SpeedCal.exe
+c:\users\acer\documents\visual studio 2015\Projects\SpeedCal\SpeedCal\obj\Debug\SpeedCal.pdb
+C:\Users\acer\Desktop\Projects\SpeedCal\SpeedCal\bin\Debug\SpeedCal.exe.config
+C:\Users\acer\Desktop\Projects\SpeedCal\SpeedCal\obj\Debug\SpeedCal.exe
+C:\Users\acer\Desktop\Projects\SpeedCal\SpeedCal\obj\Debug\SpeedCal.pdb

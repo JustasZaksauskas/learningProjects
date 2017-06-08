@@ -1,0 +1,24 @@
+c:\users\mindaugas seduikis\documents\visual studio 2015\Projects\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe.config
+c:\users\mindaugas seduikis\documents\visual studio 2015\Projects\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe
+c:\users\mindaugas seduikis\documents\visual studio 2015\Projects\ComputerShop\ComputerShop\bin\Debug\ComputerShop.pdb
+c:\users\mindaugas seduikis\documents\visual studio 2015\Projects\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csprojResolveAssemblyReference.cache
+c:\users\mindaugas seduikis\documents\visual studio 2015\Projects\ComputerShop\ComputerShop\obj\Debug\ComputerShop.exe
+c:\users\mindaugas seduikis\documents\visual studio 2015\Projects\ComputerShop\ComputerShop\obj\Debug\ComputerShop.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop\ComputerShop\obj\Debug\ComputerShop.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop\ComputerShop\obj\Debug\ComputerShop.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop\ComputerShop\bin\Debug\ComputerShop.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop2\ComputerShop\bin\Debug\ComputerShop.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop2\ComputerShop\bin\Debug\ComputerShop.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop2\ComputerShop\bin\Debug\ComputerShop.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop2\ComputerShop\obj\Debug\ComputerShop.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop2\ComputerShop\obj\Debug\ComputerShop.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ComputerShop2\ComputerShop\obj\Debug\ComputerShop.pdb
+C:\Users\acer\Desktop\Projects\ComputerShop2\ComputerShop\bin\Debug\ComputerShop.exe.config
+C:\Users\acer\Desktop\Projects\ComputerShop2\ComputerShop\bin\Debug\ComputerShop.exe
+C:\Users\acer\Desktop\Projects\ComputerShop2\ComputerShop\bin\Debug\ComputerShop.pdb
+C:\Users\acer\Desktop\Projects\ComputerShop2\ComputerShop\obj\Debug\ComputerShop.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Projects\ComputerShop2\ComputerShop\obj\Debug\ComputerShop.exe
+C:\Users\acer\Desktop\Projects\ComputerShop2\ComputerShop\obj\Debug\ComputerShop.pdb

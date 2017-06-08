@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2015\Projects\KasLaimesMilijona3\KasLaimesMilijona3\bin\Debug\KasLaimesMilijona3.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\KasLaimesMilijona3\KasLaimesMilijona3\bin\Debug\KasLaimesMilijona3.exe
+c:\users\acer\documents\visual studio 2015\Projects\KasLaimesMilijona3\KasLaimesMilijona3\bin\Debug\KasLaimesMilijona3.pdb
+c:\users\acer\documents\visual studio 2015\Projects\KasLaimesMilijona3\KasLaimesMilijona3\obj\Debug\KasLaimesMilijona3.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\KasLaimesMilijona3\KasLaimesMilijona3\obj\Debug\KasLaimesMilijona3.exe
+c:\users\acer\documents\visual studio 2015\Projects\KasLaimesMilijona3\KasLaimesMilijona3\obj\Debug\KasLaimesMilijona3.pdb
+C:\Users\acer\Desktop\Projects\KasLaimesMilijona3\KasLaimesMilijona3\bin\Debug\KasLaimesMilijona3.exe.config
+C:\Users\acer\Desktop\Projects\KasLaimesMilijona3\KasLaimesMilijona3\obj\Debug\KasLaimesMilijona3.exe
+C:\Users\acer\Desktop\Projects\KasLaimesMilijona3\KasLaimesMilijona3\obj\Debug\KasLaimesMilijona3.pdb
+C:\Users\acer\Desktop\Projects\KasLaimesMilijona3\KasLaimesMilijona3\bin\Debug\KasLaimesMilijona3.exe
+C:\Users\acer\Desktop\Projects\KasLaimesMilijona3\KasLaimesMilijona3\bin\Debug\KasLaimesMilijona3.pdb
+C:\Users\acer\Desktop\Projects\KasLaimesMilijona3\KasLaimesMilijona3\obj\Debug\KasLaimesMilijona3.csprojResolveAssemblyReference.cache

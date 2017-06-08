@@ -1,0 +1,31 @@
+<footer id="footer" class="clear">
+    <p class="fl_right">Copyright &copy; 2017 - All Rights Reserved - <a href="http://www.vilniuscoding.lt/" target="_blank">VCS komanda</a></p>
+    <p class="fl_left">Susisiekite su mumis</p> <br/> <br/>
+    <p class="fl_right"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.9845435796205!2d25.290128215585934!3d54.709895079403665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd96ae1dedd637%3A0x73978617430c730c!2sUlon%C5%B3+g.+5%2C+Vilnius+08240!5e0!3m2!1slt!2slt!4v1491242667895" width="600" height="200" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+
+    <p> Pranešti apie problemą </p>
+    <form id="contactFormForEmail" method="POST" name="contactform" action="http://topten.lt/TWork/contactus/contact-form-handler.php" class="clearfix">
+        <p>
+            <input id="name" type="text" name="name" placeholder="Vardas" style="width:250px;" />
+        </p>
+        <p>
+            <input id="email" type="text" name="email" placeholder="El. paštas" style="width:250px;" />
+        </p>
+        <p>
+            <textarea name="message" id="comment" id="contact-text" placeholder="Žinutė" style="width:248px;"></textarea>
+        </p>
+        <p><button type="submit">Siųsti</button></p>
+    </form>
+
+    <script language="JavaScript">
+        // Code for validating the form
+        // Visit http://www.javascript-coder.com/html-form/javascript-form-validation.phtml
+        // for details
+        var frmvalidator = new Validator("contactform");
+        frmvalidator.addValidation("name", "req", "Įveskite vardą");
+        frmvalidator.addValidation("email", "req", "Įveskite el. paštą");
+        frmvalidator.addValidation("email", "email", "Įveskite teisingą el. paštą");
+
+    </script>
+
+</footer>

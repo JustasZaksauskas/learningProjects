@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\WHILE33\WHILE33\bin\Debug\WHILE33.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\WHILE33\WHILE33\bin\Debug\WHILE33.exe
+c:\users\acer\documents\visual studio 2015\Projects\WHILE33\WHILE33\bin\Debug\WHILE33.pdb
+c:\users\acer\documents\visual studio 2015\Projects\WHILE33\WHILE33\obj\Debug\WHILE33.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\WHILE33\WHILE33\obj\Debug\WHILE33.exe
+c:\users\acer\documents\visual studio 2015\Projects\WHILE33\WHILE33\obj\Debug\WHILE33.pdb

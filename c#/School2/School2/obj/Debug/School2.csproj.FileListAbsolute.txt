@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2015\Projects\School2\School2\bin\Debug\School2.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\School2\School2\bin\Debug\School2.exe
+c:\users\acer\documents\visual studio 2015\Projects\School2\School2\bin\Debug\School2.pdb
+c:\users\acer\documents\visual studio 2015\Projects\School2\School2\obj\Debug\School2.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\School2\School2\obj\Debug\School2.exe
+c:\users\acer\documents\visual studio 2015\Projects\School2\School2\obj\Debug\School2.pdb
+C:\Users\acer\Desktop\Projects\School2\School2\bin\Debug\School2.exe.config
+C:\Users\acer\Desktop\Projects\School2\School2\obj\Debug\School2.exe
+C:\Users\acer\Desktop\Projects\School2\School2\obj\Debug\School2.pdb
+C:\Users\acer\Desktop\Projects\School2\School2\bin\Debug\School2.exe
+C:\Users\acer\Desktop\Projects\School2\School2\bin\Debug\School2.pdb
+C:\Users\acer\Desktop\Projects\School2\School2\obj\Debug\School2.csprojResolveAssemblyReference.cache

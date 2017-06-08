@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest2\LoopTest2\bin\Debug\LoopTest2.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest2\LoopTest2\bin\Debug\LoopTest2.exe
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest2\LoopTest2\bin\Debug\LoopTest2.pdb
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest2\LoopTest2\obj\Debug\LoopTest2.exe
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest2\LoopTest2\obj\Debug\LoopTest2.pdb
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest2\LoopTest2\obj\Debug\LoopTest2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\DateTimeProject\DateTimeProject\bin\Debug\DateTimeProject.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\DateTimeProject\DateTimeProject\bin\Debug\DateTimeProject.exe
+c:\users\acer\documents\visual studio 2015\Projects\DateTimeProject\DateTimeProject\bin\Debug\DateTimeProject.pdb
+c:\users\acer\documents\visual studio 2015\Projects\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.exe
+c:\users\acer\documents\visual studio 2015\Projects\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.pdb

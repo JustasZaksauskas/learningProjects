@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\Masyvai4\Masyvai4\bin\Debug\Masyvai4.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Masyvai4\Masyvai4\bin\Debug\Masyvai4.exe
+c:\users\acer\documents\visual studio 2015\Projects\Masyvai4\Masyvai4\bin\Debug\Masyvai4.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Masyvai4\Masyvai4\obj\Debug\Masyvai4.exe
+c:\users\acer\documents\visual studio 2015\Projects\Masyvai4\Masyvai4\obj\Debug\Masyvai4.pdb

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\Loop3\Loop3\bin\Debug\Loop3.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Loop3\Loop3\bin\Debug\Loop3.exe
+c:\users\acer\documents\visual studio 2015\Projects\Loop3\Loop3\bin\Debug\Loop3.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Loop3\Loop3\obj\Debug\Loop3.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Loop3\Loop3\obj\Debug\Loop3.exe
+c:\users\acer\documents\visual studio 2015\Projects\Loop3\Loop3\obj\Debug\Loop3.pdb

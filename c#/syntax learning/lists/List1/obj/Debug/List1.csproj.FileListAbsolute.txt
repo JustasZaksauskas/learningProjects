@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\List1\List1\bin\Debug\List1.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\List1\List1\bin\Debug\List1.exe
+c:\users\acer\documents\visual studio 2015\Projects\List1\List1\bin\Debug\List1.pdb
+c:\users\acer\documents\visual studio 2015\Projects\List1\List1\obj\Debug\List1.exe
+c:\users\acer\documents\visual studio 2015\Projects\List1\List1\obj\Debug\List1.pdb
+c:\users\acer\documents\visual studio 2015\Projects\List1\List1\obj\Debug\List1.csprojResolveAssemblyReference.cache

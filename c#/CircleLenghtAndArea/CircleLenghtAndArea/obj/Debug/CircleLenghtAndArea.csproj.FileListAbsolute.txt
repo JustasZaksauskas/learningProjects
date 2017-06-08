@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\CircleLenghtAndArea\CircleLenghtAndArea\bin\Debug\CircleLenghtAndArea.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\CircleLenghtAndArea\CircleLenghtAndArea\bin\Debug\CircleLenghtAndArea.exe
+c:\users\acer\documents\visual studio 2015\Projects\CircleLenghtAndArea\CircleLenghtAndArea\bin\Debug\CircleLenghtAndArea.pdb
+c:\users\acer\documents\visual studio 2015\Projects\CircleLenghtAndArea\CircleLenghtAndArea\obj\Debug\CircleLenghtAndArea.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\CircleLenghtAndArea\CircleLenghtAndArea\obj\Debug\CircleLenghtAndArea.exe
+c:\users\acer\documents\visual studio 2015\Projects\CircleLenghtAndArea\CircleLenghtAndArea\obj\Debug\CircleLenghtAndArea.pdb

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>BEST BIKE SHOP</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <link rel="shortcut icon" href="bike.ico" />
+</head>
+
+<script>
+    function sendMessage() {
+
+        var checkMessage = document.getElementById("isMesssageEmpty").value;
+
+        if (checkMessage != "") {
+            document.getElementById("messageStatus").innerHTML = "Your message was send"
+        } else {
+            document.getElementById("messageStatus").innerHTML = "Please write your question in textbox"
+        }
+
+    }
+
+
+    function show(id) {
+        document.getElementById(id).style.display = 'block';
+    }
+
+    function hide(id) {
+        document.getElementById(id).style.display = 'none';
+    }
+
+
+    function sendEmail() {
+        var email = document.getElementById('email').value;
+        var subject = document.getElementById('subject').value;
+        var bodyval = document.getElementById('bodyval').value;
+     
+        window.open('mailto:'+email + '? subject=' + subject + '&body=' + bodyval + '');
+    }
+
+</script>
+
+<body class="index_body">
+
+    <!--
+    <button onclick="hide('headerID');">HIDE HEADER</button>
+    <button onclick="show('headerID');">SHOW HEADER</button>
+-->
+
+
+    <div class="header" id="headerID">
+        <table>
+            <tr>
+                <td>
+                    <img class="logo" src="pictures/logo.gif">
+                </td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="MainPage.html"> <b>//HOME//</b> </a>
+                        </li>
+                        <li>
+                            <a href="MountainBikes.html"> <b>/MOUNTAIN BIKES/</b> </a>
+                        </li>
+                        <li><a href="CityBikes.html"><b>/CITY BIKES/</b></a></li>
+                        <li><a href="RoadBikes.html"><b>/ROAD BIKES/</b></a></li>
+                        <li><a href="Contacts.html"><b>/Q&A AND CONTACTS/</b></a></li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <p class="typeTitle">Q&A AND CONTACTS</p>
+
+
+    <input type="text" id="email" placeholder="vardenis.pavardenis@gmail.com"><br>
+    <input type="text" id="subject" placeholder="laiskas vcs"><br>
+    <input type="text" id="bodyval" placeholder="bodyyyy"><br>
+
+    <form>
+        <textarea id="isMesssageEmpty" placeholder="Write message to us"></textarea>
+    </form>
+
+    <button onclick="sendMessage();">SEND MESSAGE</button><br>
+    <button onclick="sendEmail();">SEND MESSAGE WITH OUTLOOK</button><br>
+    <div id="messageStatus" class="messageStatus"></div>
+
+    <div class="footer">
+        <table>
+            <tr>
+                <td>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2306.443496081815!2d25.315243816118752!3d54.68422288028111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd942f73945d53%3A0x6f8e7c31a08fc73b!2sPeteli%C5%A1ki%C5%B3+g.+9%2C+Vilnius+01213!5e0!3m2!1slt!2slt!4v1490340716998" width="150" height="150" frameborder="2" style="border:2" allowfullscreen></iframe>
+                </td>
+                <td>
+                </td>
+                <td style="vertical-align: text-top;">
+                    <form class="contactinfo">
+                        <fieldset>
+                            <b>Peteliškių g. 9, <br> Tel.: +370 678 46035 <br> El. paštas: zaksauskas.justas@gmail.com <br> </b>
+                        </fieldset>
+                    </form>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\Masyvai2\Masyvai2\bin\Debug\Masyvai2.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Masyvai2\Masyvai2\bin\Debug\Masyvai2.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Masyvai2\Masyvai2\bin\Debug\Masyvai2.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Masyvai2\Masyvai2\obj\Debug\Masyvai2.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Masyvai2\Masyvai2\obj\Debug\Masyvai2.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Masyvai2\Masyvai2\obj\Debug\Masyvai2.pdb

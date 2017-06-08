@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\KMI\KMI\bin\Debug\KMI.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\KMI\KMI\bin\Debug\KMI.exe
+c:\users\acer\documents\visual studio 2015\Projects\KMI\KMI\bin\Debug\KMI.pdb
+c:\users\acer\documents\visual studio 2015\Projects\KMI\KMI\obj\Debug\KMI.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\KMI\KMI\obj\Debug\KMI.exe
+c:\users\acer\documents\visual studio 2015\Projects\KMI\KMI\obj\Debug\KMI.pdb

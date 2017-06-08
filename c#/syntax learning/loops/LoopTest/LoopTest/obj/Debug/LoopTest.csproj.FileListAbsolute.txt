@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest\LoopTest\bin\Debug\LoopTest.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest\LoopTest\bin\Debug\LoopTest.exe
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest\LoopTest\bin\Debug\LoopTest.pdb
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest\LoopTest\obj\Debug\LoopTest.exe
+c:\users\acer\documents\visual studio 2015\Projects\LoopTest\LoopTest\obj\Debug\LoopTest.pdb

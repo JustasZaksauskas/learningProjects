@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\While2\While2\bin\Debug\While2.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\While2\While2\bin\Debug\While2.exe
+c:\users\acer\documents\visual studio 2015\Projects\While2\While2\bin\Debug\While2.pdb
+c:\users\acer\documents\visual studio 2015\Projects\While2\While2\obj\Debug\While2.exe
+c:\users\acer\documents\visual studio 2015\Projects\While2\While2\obj\Debug\While2.pdb
